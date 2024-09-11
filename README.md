@@ -13,10 +13,10 @@ Team and player performance comparison
 Attribute correlation analysis
 Match outcome prediction modeling
 Data:
+FIFA dataset  
 
-FIFA dataset
+
 Libraries:
-
 Seaborn
 Matplotlib
 Pandas
